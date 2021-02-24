@@ -1,3 +1,9 @@
+Update (2/23/2021)
+===
+It looks like this README is slowly turning into a reference of all the projects in this space that I think are better than consecution.
+Here is [metaflow](https://github.com/Netflix/metaflow), an offering from Netflix.
+
+
 Update (9/21/2020)
 ===
 Another library that I believe to be better than consecution is the [pypeln](https://cgarciae.github.io/pypeln/) project.  The way it allows for a different number of workers on each node of a pipeline is quite nice.  Additionally the ability to control whether each node is run using threads, processes, async, or sync is really useful.
